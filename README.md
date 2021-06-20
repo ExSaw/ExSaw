@@ -2,7 +2,7 @@
 - 👀❤ I’m interested in getting a job in a software development company.
 - ✓ My skills set: JAVA, C++, GLSL, OpenGL, Git, JSON, SQL and other things used in development for the Android OS.
 - 🌱 I’m currently learning Kotlin, RxJava... and loking for a job as a Software Engineer.
-- 📫 I can always PM me if you are interested in my person. My e-mail is: USATU.robotics@gmail.com
+- 📫 You can always PM me if you are interested in my person. My e-mail is: USATU.robotics@gmail.com
 
 More about me:
 - For now I have one fully working project on Play Market, 
