@@ -1,4 +1,4 @@
-- Hi👋, I’m @ExSaw (RickRip), and I'm an J1 Android Developer.
+- Hi👋, I’m @ExSaw (RickRip), and I'm J1 Android Developer.
 - 👀❤ I’m interested in moving to another country.
 - ✓ My skills set: Kotlin, JAVA, C++, Lua, GLSL, OpenGL, GitFlow, JSON, ROOM, Retrofit, DaggerHilt, Epoxy, LibGDX, Concurrency, Coroutines and lots of other things used in development for the Android OS.
 - 🌱 I’m currently learning: English and all stuff typed above.
