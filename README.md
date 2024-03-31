@@ -8,6 +8,7 @@
 More about me:
 - For now you can see one of my fully working project on Play Market, 
 check it here: https://play.google.com/store/apps/details?id=com.rickrip.game0
+- And project I'm currently working on https://play.google.com/store/apps/details?id=kz.poedem
 
 <!---
 ExSaw/ExSaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
