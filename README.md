@@ -1,5 +1,5 @@
 - Hi👋, I’m @ExSaw (RickRip), and I'm an Android Developer.
-- ✓ My skills set: Kotlin, JAVA, C++, Lua, GLSL, OpenGL, Baseline profiling, GitFlow, JSON, ROOM, Retrofit, RxJava, Dagger 2 and Koin(my favorite), LibGDX, Kotlin Coroutines, Compose UI, RAM drives, all about Gradle, CI/CD favorite architecture is MVI... and lots of other things used in development for the Android OS.
+- ✓ My skills set: Kotlin, JAVA, C++, Lua, GLSL, OpenGL, Baseline profiling, GitFlow, JSON, ROOM, Retrofit, RxJava, Dagger 2 and Koin(my favorite), LibGDX, Kotlin Coroutines, Compose UI, RAM drives, all about Gradle, CI/CD + bots, favorite architecture is MVI... and lots of other things used in development for the Android OS.
 - 🌱 I’m currently studying: Machine learning.
 - 📫 You can always PM me if you are interested in my person. My e-mail: USATU.robotics@gmail.com
 - Thank you for your attention =P
